@@ -1,5 +1,7 @@
 # Lebenslauf
 
+![Picture](218232.jpg)
+
 ## Persönliche Daten
 
 **Name:** Soraya Ferdani
