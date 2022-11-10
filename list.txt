@@ -1,0 +1,6 @@
+Einkaufsliste:
+
+- Brot
+- Butter 
+- Eier 
+- Milch
